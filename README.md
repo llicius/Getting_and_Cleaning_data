@@ -5,4 +5,5 @@ Getting_and_Cleaning_data
 - Copy all the files from the UCI HAR Dataset folder in your working directory
 - Run source("run_analysis.R") in R.
 - The code will generate two files, merged_data.txt and data_with_means.txt 
+- You can read the data using data <- read.table("data_with_means.txt")
  
